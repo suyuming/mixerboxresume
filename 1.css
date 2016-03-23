@@ -1,0 +1,57 @@
+body{
+  max-height: 660px;
+  width: 100%;
+  margin: 0px;
+}
+
+.margin-10{
+  margin: 10px 10px 10px 10px;
+}
+
+.margin-20{
+  margin:20px 20px 20px 20px;
+}
+
+.margin-left-30{
+  margin-left: 30px;
+}
+
+.margin-left-20{
+  margin-left: 20px;
+}
+
+.enlarge-17{
+  font-size: 1.7em;
+}
+
+.downsize-8{
+  font-size: 0.8em;
+}
+
+.head{
+  width: 100%;
+  height: 60px;
+  background-color: rgb(55,185,235);
+}
+
+.side{
+  height: 600px;
+  width: 25%;
+  box-shadow: 2px 0px 3px #888888;
+  float: left;
+}
+
+.float-left{
+  float: left;
+}
+
+.information{
+  line-height: 1.7;
+  font-size: 20px;
+}
+
+iframe{
+  height: 600px;
+  width: 74.6%;
+  float: right;
+}

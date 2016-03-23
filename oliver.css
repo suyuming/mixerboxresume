@@ -1,0 +1,59 @@
+body{
+  max-height: 600px;
+  max-width: 500px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.box{
+  position: relative;
+  height: 270px;
+  width: 200px;
+  box-shadow: 0px 0px 5px #888888;
+}
+
+.autobiography{
+  top: 20px;
+  left: 20px;
+}
+
+.capability{
+  left:240px;
+  bottom: 250px;
+}
+
+.club{
+  left: 20px;
+  bottom: 230px;
+}
+
+.club p{
+  position: relative;
+  bottom: 25px;
+}
+
+.none{
+  left: 240px;
+  bottom: 500px;
+}
+
+.none p{
+  margin: 0px;
+  padding: 0px;
+  padding-top: 100px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color:#888888;
+  text-decoration: underline;
+}
+
+p{
+  text-align: center;
+  font-size: 20px;
+  color: #888888;
+}
